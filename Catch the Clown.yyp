@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "6382a640-eae0-453b-85b7-7540a4cf7c22",
+            "Value": {
+                "id": "68aeb9ef-eb2b-40cc-9d6a-fd78697b2855",
+                "resourcePath": "objects\\obj_menu\\obj_menu.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "66a25cc5-a585-4139-b8fd-5ce77e69a28c",
             "Value": {
                 "id": "402c15d5-88dc-4803-a1a2-8c9ebd399f1a",
@@ -284,6 +292,14 @@
                 "id": "abb0da43-80de-4431-a4e9-c3a7f9db7105",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f68c4b0d-634c-408b-a2ca-49eb482d72f8",
+            "Value": {
+                "id": "c21ada98-5689-4b2b-bf32-565c1d10e96d",
+                "resourcePath": "fonts\\font_main\\font_main.yy",
+                "resourceType": "GMFont"
             }
         },
         {
