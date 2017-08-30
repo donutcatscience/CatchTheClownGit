@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-audio_play_sound(sfx_click,1,false);
-instance_destroy();
-score += 1;
- 
+if (gameStart = 1){
+	gameTimer = (gameTimer + 1 /60);
+	}
+	else gameTimer = 0;

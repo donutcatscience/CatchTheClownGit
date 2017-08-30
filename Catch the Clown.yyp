@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "037a97fd-bfef-4a1a-97c7-d7d216141185",
+            "Value": {
+                "id": "740fbd95-ec48-4ba4-87f9-a71a5d15457d",
+                "resourcePath": "scripts\\scr_resetGame\\scr_resetGame.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "0a9a5855-d3b7-4cf0-8f3a-ec6f1ceaf5f7",
             "Value": {
                 "id": "4bf36ac5-03f2-4460-98e7-4bc4b05ab0b5",
@@ -71,6 +79,14 @@
             }
         },
         {
+            "Key": "3f240639-9dda-4ec5-b06e-b95028da7628",
+            "Value": {
+                "id": "47328ac6-e065-4bb7-93aa-d625242ae580",
+                "resourcePath": "objects\\obj_MetalBoxSpawner\\obj_MetalBoxSpawner.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "45a26c8c-dcc2-4cb0-89b6-51790a5fd9e2",
             "Value": {
                 "id": "f95d416d-25d7-49fd-bf37-424f09c7a71f",
@@ -84,6 +100,14 @@
                 "id": "ec6f4ff5-d828-4801-a23e-52d723e63bb3",
                 "resourcePath": "objects\\obj_wall\\obj_wall.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5c4adfcc-e427-4c50-aada-eb7aed017cb3",
+            "Value": {
+                "id": "915ab2d2-abae-44c0-9c47-f0d38dbad59b",
+                "resourcePath": "scripts\\scr_continueGame\\scr_continueGame.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -306,7 +330,7 @@
             "Key": "fc7014b0-520d-4e69-aa2c-e4af13404778",
             "Value": {
                 "id": "467ef56f-7b0b-4f69-87b9-4a414bdb5ab2",
-                "resourcePath": "objects\\obj_initializeGame\\obj_initializeGame.yy",
+                "resourcePath": "objects\\obj_gameDisplay\\obj_gameDisplay.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -320,7 +344,9 @@
         }
     ],
     "script_order": [
-        "60e27a26-499c-404d-9dee-0f5ad02a4446"
+        "60e27a26-499c-404d-9dee-0f5ad02a4446",
+        "037a97fd-bfef-4a1a-97c7-d7d216141185",
+        "5c4adfcc-e427-4c50-aada-eb7aed017cb3"
     ],
     "tutorial": ""
 }
