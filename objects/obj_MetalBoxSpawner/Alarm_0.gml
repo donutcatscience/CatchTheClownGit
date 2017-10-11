@@ -9,5 +9,5 @@ for (var i = 0; i < global.difficulty; i += 1) {
 		}
 		until (place_free(boxSpawnX,boxSpawnY));
 		instance_create_layer(boxSpawnX,boxSpawnY,"Instances",obj_metalBox);
-		alarm[0] = 60 + random((global.difficulty * 60));
+		alarm[0] = 120 + random((global.difficulty * 10));
 }

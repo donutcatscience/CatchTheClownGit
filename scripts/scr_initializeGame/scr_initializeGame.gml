@@ -1,8 +1,10 @@
 /// Set Game to start
 
+//set variables
 score = 0;
 lives = 3;
 global.difficulty = 0;
+
 
 randomize();
 instance_deactivate_layer("Menu");

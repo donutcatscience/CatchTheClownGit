@@ -1,6 +1,12 @@
 /// @description Flying Clown
 
-self.hspeed = irandom_range(-10,10);
-self.vspeed = irandom_range(-10,10);
+//clown's varaibles
+speedIncreaseRate = 0;
+
+
+
+
+self.hspeed = choose(-8,-7,-6,6,7,8);
+self.vspeed = choose(-8,-7,-6,6,7,8);
 
 audio_play_sound(mus_background, 1, true);

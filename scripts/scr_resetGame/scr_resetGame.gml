@@ -9,4 +9,5 @@ instance_destroy(obj_clown);
 instance_destroy(obj_metalBox);
 instance_destroy(obj_gameDisplay);
 audio_stop_all();
+highscore_add("High Score",score);
 instance_activate_layer("Menu");
